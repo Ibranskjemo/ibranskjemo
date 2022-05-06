@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+background-color: rgb(112, 77, 30);
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+
+.mainheading{
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    font-size: 6vw;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+}
+
+.mainheading2{
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    font-size: 3vw;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+}
+
+.row{
+    display: flex;
+    overflow: scroll;
+    
+}
+
+.column1{
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.column2{
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.column3{
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.column4{
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.column5{
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+img{
+    height: 150px;
+    width: 100px;
+}
+
